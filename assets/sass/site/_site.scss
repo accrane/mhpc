@@ -1590,7 +1590,7 @@ margin: 50px auto;
 	margin: 0 0 10px 0;
 }
 .page-right-tools {
-	width: 650px; 
+	width: 100%; 
 	float: right;
 	@media screen and (min-width: $tabwidth) {
 		width: 62%;

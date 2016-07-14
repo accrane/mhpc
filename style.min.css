@@ -365,7 +365,7 @@ h1.newsevents{width:400px}
 }.page-left-tools h3{color:#40465d;margin-bottom:20px}
 .page-left-tools ul{margin:10px 0 20px 0}
 .page-left-tools li{margin:0 0 10px 0}
-.page-right-tools{width:650px;float:right}
+.page-right-tools{width:100%;float:right}
 @media screen and (min-width:600px){.page-right-tools{width:62%}
 }.read-more{width:auto;display:inline-block;float:left;margin-bottom:40px}
 .read-more a{width:auto;display:inline-block;padding:10px 20px;display:block;background-color:#40465d;-webkit-transition:all .3s ease;transition:all .3s ease;color:#fff}
