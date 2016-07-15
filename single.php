@@ -65,7 +65,7 @@ get_header(); ?>
                         <?php if ( has_post_thumbnail() ) {
 							the_post_thumbnail('thumbnail');
 							} else { ?>
-               <img src="<?php bloginfo('template_url'); ?>/images/program-image-default.png" width="50px" height="50px"/>
+              <!--  <img src="<?php bloginfo('template_url'); ?>/images/program-image-default.png" width="50px" height="50px"/> -->
                           <?php } ?>
                    </div><!-- program list image -->
                    <div class="program-list-right">
