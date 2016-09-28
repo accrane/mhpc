@@ -36,6 +36,7 @@ get_header(); ?>
                     <li><a class='inline' href="#clay" alt="clay" >Clay</a></li>
                     <li><a class='inline' href="#graham" alt="graham" >Graham</a></li>
                     <li><a class='inline' href="#haywood" alt="haywood" >Haywood</a></li>
+                    <li><a class='inline' href="#henderson" alt="haywood" >Henderson</a></li>
                     <li><a class='inline' href="#jackson" alt="jackson" >Jackson</a></li>
                     <li><a class='inline' href="#macon" alt="macon" >Macon</a></li>
                     
@@ -50,6 +51,7 @@ get_header(); ?>
                     <li><a class='inline' href="#polk" alt="polk" >Polk</a></li>
                     <li><a class='inline' href="#rutherford" alt="rutherford" >Rutherford</a></li>
                     <li><a class='inline' href="#swain" alt="swain" >Swain</a></li>
+                    <li><a class='inline' href="#transylvania" alt="swain" >Transylvania</a></li>
                     <li><a class='inline' href="#yancey" alt="yancey" >Yancey</a></li>
                    
                 
