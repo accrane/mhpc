@@ -280,7 +280,7 @@ a:hover {
 	
 	
 	width: 200px;
-	height: 88px;
+	height: 106px;
 	z-index: 1;
 	margin: 10px auto;
 
@@ -291,13 +291,13 @@ a:hover {
 
 	@media screen and (min-width: $deskwidth) {
 		width: 344px;
-		height: 150px;
+		height: 182px;
 	}
 	
 }
 .logo a, h1.logo a{
 	width: 200px;
-	height: 88px;
+	height: 106px;
 	display: block;
 	text-indent: -9000px;
 
@@ -307,7 +307,7 @@ a:hover {
 
 	@media screen and (min-width: $deskwidth) {
 		width: 344px;
-		height: 150px;
+		height: 182px;
 	}
 	
 }
@@ -346,7 +346,8 @@ a:hover {
 }
 .logo-splash-smat, .logo-splash-mhpc {
 	width: 200px;
-	height: 88px;
+	// height: 88px;
+	height: 106px;
 	
 	z-index: 1;
 	margin: 10px auto;
@@ -359,12 +360,14 @@ a:hover {
 
 	@media screen and (min-width: $deskwidth) {
 		width: 344px;
-		height: 150px;
+		// height: 150px;
+		height: 182px;
 	}
 }
 .logo-splash-smat a, .logo-splash-mhpc a {
 	width: 200px;
-	height: 88px;
+	// height: 88px;
+	height: 106px;
 	display: block;
 	text-indent: -9000px;
 
@@ -374,7 +377,8 @@ a:hover {
 
 	@media screen and (min-width: $deskwidth) {
 		width: 344px;
-		height: 150px;
+		// height: 150px;
+		height: 182px;
 	}
 }
 .top-description {

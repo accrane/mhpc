@@ -149,21 +149,21 @@ a:hover{color:#f89a3d}
 .logo,h1.logo,.logo-mhpc,.logo-splash-mhpc{background-image:url(images/logo.png);background-size:cover}
 .logo-smat,.logo-splash-smat{background-image:url(images/matrac-page.png);background-size:cover}
 .logo-smat,h1.logo-smat{background-image:url(images/matrac-page.png);background-size:cover}
-.logo,h1.logo,.logo-smat,h1.logo-smat{width:200px;height:88px;z-index:1;margin:10px auto}
+.logo,h1.logo,.logo-smat,h1.logo-smat{width:200px;height:106px;z-index:1;margin:10px auto}
 @media screen and (min-width:600px){.logo,h1.logo,.logo-smat,h1.logo-smat{float:left;margin:10px 0 0 0}
-}@media screen and (min-width:1200px){.logo,h1.logo,.logo-smat,h1.logo-smat{width:344px;height:150px}
-}.logo a,h1.logo a{width:200px;height:88px;display:block;text-indent:-9000px}
-@media screen and (min-width:1200px){.logo a,h1.logo a{width:344px;height:150px}
+}@media screen and (min-width:1200px){.logo,h1.logo,.logo-smat,h1.logo-smat{width:344px;height:182px}
+}.logo a,h1.logo a{width:200px;height:106px;display:block;text-indent:-9000px}
+@media screen and (min-width:1200px){.logo a,h1.logo a{width:344px;height:182px}
 }.logo-smat,.logo-mhpc{width:200px;height:88px;z-index:1;margin:10px auto;text-indent:-9000px}
 @media screen and (min-width:600px){.logo-smat,.logo-mhpc{float:left;margin:10px 0 0 0}
 }@media screen and (min-width:1200px){.logo-smat,.logo-mhpc{width:344px;height:150px}
 }.logo-smat a,.logo-mhpc a{width:200px;height:88px;display:block;text-indent:-9000px}
 @media screen and (min-width:1200px){.logo-smat a,.logo-mhpc a{width:344px;height:150px}
-}.logo-splash-smat,.logo-splash-mhpc{width:200px;height:88px;z-index:1;margin:10px auto;text-indent:-9000px}
+}.logo-splash-smat,.logo-splash-mhpc{width:200px;height:106px;z-index:1;margin:10px auto;text-indent:-9000px}
 @media screen and (min-width:600px){.logo-splash-smat,.logo-splash-mhpc{margin:10px auto}
-}@media screen and (min-width:1200px){.logo-splash-smat,.logo-splash-mhpc{width:344px;height:150px}
-}.logo-splash-smat a,.logo-splash-mhpc a{width:200px;height:88px;display:block;text-indent:-9000px}
-@media screen and (min-width:1200px){.logo-splash-smat a,.logo-splash-mhpc a{width:344px;height:150px}
+}@media screen and (min-width:1200px){.logo-splash-smat,.logo-splash-mhpc{width:344px;height:182px}
+}.logo-splash-smat a,.logo-splash-mhpc a{width:200px;height:106px;display:block;text-indent:-9000px}
+@media screen and (min-width:1200px){.logo-splash-smat a,.logo-splash-mhpc a{width:344px;height:182px}
 }.top-description{font-family:'Sintony',sans-serif;font-size:12px;color:#40465d;font-style:italic;line-height:1.4;width:90%;margin:10px auto;overflow:hidden;text-align:center}
 @media screen and (min-width:600px){.top-description{width:100%;float:right;margin:10px 0 0 0;text-align:right;font-size:12px}
 }@media screen and (min-width:1200px){.top-description{width:460px;margin:25px 10px 0 0;padding:0 10px 0 0;font-size:17px}
